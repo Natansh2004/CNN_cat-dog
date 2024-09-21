@@ -1,0 +1,7 @@
+numpy
+matplotlib
+seaborn
+cv2
+PIL
+streamlit
+tensorflow
